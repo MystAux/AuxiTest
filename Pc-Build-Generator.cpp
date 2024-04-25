@@ -2,6 +2,7 @@
 #include <cstdlib>
 #include <string>
 
+bantutankalbuhan
 using namespace std;
 
 void newline(int numOfLines){

@@ -3,6 +3,7 @@
 #include <string>
 
 bantutankalbuhan
+nginamoDeil
 using namespace std;
 
 void newline(int numOfLines){
